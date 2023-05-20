@@ -6,13 +6,13 @@
  * 自行添加属性，以支持更多个性化功能
  */
 const USER_CONFIG = {
-// 请将以下代码按照图示粘贴到对应位置
+
 USE_PASSAGE: 'push-deer',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wxde7561e1b63538fc',
+ // APP_ID: 'wxde7561e1b63538fc',
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '882daac93f1e9ca621e5eaa861b61e54',
+  // APP_SECRET: '882daac93f1e9ca621e5eaa861b61e54', 
 
   PROVINCE: '广东',
   CITY: '珠海',
