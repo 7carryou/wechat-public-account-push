@@ -15,7 +15,7 @@ USE_PASSAGE: 'push-deer',
   // APP_SECRET: '882daac93f1e9ca621e5eaa861b61e54', 
 
   PROVINCE: '广东',
-  CITY: '珠海',
+  CITY: '广州',
 
   USERS: [
     {
